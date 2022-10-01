@@ -4,5 +4,10 @@ This template is a basic skeleton to perform php katas, main focus in TDD and Te
 
 ## Execute tests
 ```bash
-make test
+make tests
+```
+
+## Show php version
+```bash
+make version
 ```
